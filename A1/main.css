@@ -1,0 +1,21 @@
+:root {
+    --xingrenhuang: #f7e8aa;
+}
+
+header {
+    background-color: var(--xingrenhuang);
+}
+
+section {
+    border: dodgerblue 1px solid;
+}
+
+.pet_img {
+    border-radius: 10px;
+    width: 200px;
+}
+
+h2 {
+    font-size: larger;
+    color:hotpink;
+}

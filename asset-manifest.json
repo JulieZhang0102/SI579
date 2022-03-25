@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PS6/static/css/main.7c97941a.css",
-    "main.js": "/PS6/static/js/main.e16fee72.js",
-    "static/js/787.770856bb.chunk.js": "/PS6/static/js/787.770856bb.chunk.js",
-    "index.html": "/PS6/index.html",
-    "main.7c97941a.css.map": "/PS6/static/css/main.7c97941a.css.map",
-    "main.e16fee72.js.map": "/PS6/static/js/main.e16fee72.js.map",
-    "787.770856bb.chunk.js.map": "/PS6/static/js/787.770856bb.chunk.js.map"
+    "main.css": "/ps6/static/css/main.7c97941a.css",
+    "main.js": "/ps6/static/js/main.11ef9788.js",
+    "static/js/787.770856bb.chunk.js": "/ps6/static/js/787.770856bb.chunk.js",
+    "index.html": "/ps6/index.html",
+    "main.7c97941a.css.map": "/ps6/static/css/main.7c97941a.css.map",
+    "main.11ef9788.js.map": "/ps6/static/js/main.11ef9788.js.map",
+    "787.770856bb.chunk.js.map": "/ps6/static/js/787.770856bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c97941a.css",
-    "static/js/main.e16fee72.js"
+    "static/js/main.11ef9788.js"
   ]
 }

@@ -1,0 +1,18 @@
+.event__datetime {
+    padding: 6px;
+    min-width: 140px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: #d2d2d2;
+}
+
+.event__date {
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.event__start-end {
+    font-style: italic;
+}
